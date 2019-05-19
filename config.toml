@@ -33,10 +33,10 @@ canonifyurls = true
 [author]
   name = "むくさく"
   bio = "引っ越してきました"
-  job = "Your job title"
+  job = "Akanechan house owner"
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "mukusakuproducer@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
