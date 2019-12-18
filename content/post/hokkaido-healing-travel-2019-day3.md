@@ -1,18 +1,17 @@
 ---
-title: "Hokkaido Healing Travel 2019 Day3"
+title: "北海道傷心旅行 3日目"
 date: 2019-12-10T08:12:21+09:00
 url: "hokkaido-healing-travel-2019-day3"
 categories:
-- category
-- subcategory
+- 日記
 tags:
-- tag1
-- tag2
+- 旅行
 draft: true
 #thumbnailImage: //example.com/image.jpg
 ---
 
-2019年12月7～10日に北海道に行ってきた日記（3日目）
+2019年12月7～10日に北海道に行ってきました。
+3日目の記録になります。
 <!--more-->
 
 ***
